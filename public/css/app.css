@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(243, 105, 174);
+    text-align: center;
+    margin: 10px auto;
+    justify-content: center;
+}
+
+.logo {
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    width: 25%;
+}
+
+footer {
+    background-color: rgb(157, 157, 157);
+    padding: 20px;
+    text-align: center;
+}
